@@ -1,4 +1,4 @@
-# fxTris
+# FxTris
 Tetris in javaFX
 
  ▣ This is an attempt at making a modern version of Tetris:                                                                                                                        
